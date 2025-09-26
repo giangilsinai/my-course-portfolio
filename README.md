@@ -3,10 +3,10 @@
 Welcome to my academic portfolio for [Course Name]!
 
 ## About Me
-- Name: [Your Name]
-- Major: [Your Major]
-- Year: [Your Academic Year]
-- Favorite Programming Language: [Your Choice]
+- Name: Gian Gil
+- Major: Computer Programming
+- Year: 2025-2026
+- Favorite Programming Language: Python
 
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
