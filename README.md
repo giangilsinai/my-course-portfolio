@@ -1,12 +1,12 @@
 # My Course Portfolio
 
-Welcome to my academic portfolio for [Course Name]!
+Welcome to my academic portfolio for CEP146!
 
 ## About Me
-- Name: [Your Name]
-- Major: [Your Major]
-- Year: [Your Academic Year]
-- Favorite Programming Language: [Your Choice]
+- Name: Gian Gil
+- Major: Computer Programming
+- Year: 2025-2026
+- Favorite Programming Language: Python
 
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
